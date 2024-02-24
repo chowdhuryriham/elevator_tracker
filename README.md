@@ -3,7 +3,7 @@
 This project aims to create a smart elevator system using Raspberry Pi, Python, OpenCV, and Firebase.
 
 ### Purpose
-Efficiently tracks elevator positions in high-rise buildings, providing real-time updates to reduce wait times and enhance user experience.
+Efficiently tracks elevator positions in high-rise buildings, providing real-time updates to reduce wait times and enhance user experience. This device will be positioned above the elevator display, allowing it to read the digits shown. It's designed to be portable and will display the same digit on its display as well as send it to the user.
 
 ### Features
 - Real-time position tracking
@@ -20,7 +20,6 @@ Efficiently tracks elevator positions in high-rise buildings, providing real-tim
 ### Future Enhancements
 - Predictive analytics for demand forecasting
 - Integration with smart building systems
-- Dedicated mobile application
 
 ### Conclusion
 The Elevator Tracker streamlines building navigation, offering real-time updates to optimize efficiency and enhance user convenience in high-rise environments.
